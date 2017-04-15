@@ -25,5 +25,3 @@ var addFour = function(x) //Function which is assigned to a variable.
 {
 	return x+4; 		
 }
-
-
