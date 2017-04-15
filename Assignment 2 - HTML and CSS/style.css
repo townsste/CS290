@@ -1,0 +1,28 @@
+table
+{border-style:solid;}
+
+.tbody tr:nth-of-type(odd)
+{background-color: #32CD32;}
+.tbody tr:nth-of-type(even)
+{background-color: #9370DB;}
+
+th, td
+{border-style:solid;}
+
+section
+{border-style:solid;}
+
+.outer-content{
+    background-color:pink;
+	text-align:center;
+    width:75%;
+	margin-top:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.inner-content{
+	display: inline-block;	
+	background-color:#add8e6;
+    width:75%;
+}
