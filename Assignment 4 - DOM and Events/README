@@ -30,5 +30,3 @@ Hitting the "Mark Cell" button should permanently change the background of the s
 Suggestion: If you are having a lot of trouble getting the page populated the way you want using JavaScript, just manually make the HTML so that you can continue to work on the rest of the assignment involving selecting and marking cells.
 
 Note: When generating content for the page you will not get credit for simply using the innerHTML property of the body element to parse a string of HTML content. The purpose is to use the process of creating and appending element nodes to the document.
-
-Previous Next
