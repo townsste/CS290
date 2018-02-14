@@ -1,1 +1,2 @@
-# CS290 - Website Development
+# CS290 
+Website Development
